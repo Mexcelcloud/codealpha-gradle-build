@@ -320,7 +320,7 @@ This repository uses Gradle — but the build engineering thinking applied here 
 
 ## Learning Outcomes
 
-By completing this repository you have demonstrated:
+By completing this task demonstrated:
 
 - Setting up a Gradle-based Java project from scratch
 - Understanding the role of a build tool in a software delivery pipeline
@@ -334,6 +334,8 @@ By completing this repository you have demonstrated:
 
 ## Author
 
-**CodeAlpha DevOps Internship**  
-Task 3 — Java Application Using Gradle  
-QuickCart DevOps Pipeline Series
+Built by **[DENNIS SUNDAY CHIMEZIE]** as part of the CodeAlpha DevOps Internship.  
+This repository is Task 3 of a 4-part DevOps pipeline series built around a fictional 
+grocery startup called QuickCart.
+
+[GitHub Profile](https://github.com/Mexcelcloud)
