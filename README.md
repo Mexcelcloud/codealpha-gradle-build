@@ -195,10 +195,12 @@ curl http://localhost:8080/health
 curl http://localhost:8080/products
 
 
-**Products Endpoint:**
+**Products Endpoint:b**
+
 ![Products Endpoint](docs/product-endpoint.png)
 
 **Health Endpoint:**
+
 ![Health Endpoint](docs/health-endpoint.png)
 
 
