@@ -295,6 +295,29 @@ Developer writes code
 
 ---
 
+## Build Tools Landscape
+
+Gradle is one of several build tools that solve the same fundamental problem — transforming source code into deployable artifacts. The tool changes depending on the language and company. The concept is identical everywhere.
+
+| Tool | Language | Config File | Used By |
+|---|---|---|---|
+| Gradle | Java | `build.gradle` | Android, Spring Boot projects |
+| Maven | Java | `pom.xml` | Most enterprise Java companies |
+| Ant | Java | `build.xml` | Legacy Java projects |
+| npm | JavaScript | `package.json` | Node.js applications |
+| pip | Python | `requirements.txt` | Python applications |
+| Make | C/C++ | `Makefile` | Systems and DevOps tooling |
+
+### Why This Matters for DevOps
+
+A DevOps engineer does not specialise in one build tool. You specialise in the **concept**:
+
+> *Declare dependencies → Define build steps → Produce a versioned artifact → Deliver reliably*
+
+In your career you will encounter Java teams using Maven, JavaScript teams using npm, Python teams using pip. The pipeline you build around them follows the same pattern regardless of the tool sitting in the middle.
+
+This repository uses Gradle — but the build engineering thinking applied here transfers directly to any language and any build tool you will encounter in production.
+
 ## Learning Outcomes
 
 By completing this repository you have demonstrated:
