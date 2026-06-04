@@ -14,7 +14,7 @@ QuickCart is a growing online grocery platform. As the engineering team expanded
 
 This repository solves that problem by introducing a **standardised, automated build system** using Gradle.
 
-The goal is not simply to write a Java application.  
+  
 The goal is to produce **one repeatable build process** that works identically across every developer, every machine, and every environment.
 
 ---
@@ -322,13 +322,12 @@ A DevOps engineer does not specialise in one build tool. You specialise in the *
 
 > *Declare dependencies → Define build steps → Produce a versioned artifact → Deliver reliably*
 
-In your career you will encounter Java teams using Maven, JavaScript teams using npm, Python teams using pip. The pipeline you build around them follows the same pattern regardless of the tool sitting in the middle.
 
-This repository uses Gradle — but the build engineering thinking applied here transfers directly to any language and any build tool you will encounter in production.
+This repository uses Gradle, but the build engineering thinking applied here transfers directly to any language and any build tool one can encounter in production.
 
 ## Learning Outcomes
 
-By completing this task demonstrated:
+Completing this task demonstrated:
 
 - Setting up a Gradle-based Java project from scratch
 - Understanding the role of a build tool in a software delivery pipeline
@@ -342,7 +341,7 @@ By completing this task demonstrated:
 
 ## Author
 
-Built by **[DENNIS SUNDAY CHIMEZIE]** as part of the CodeAlpha DevOps Internship.  
+Built by **DENNIS SUNDAY CHIMEZIE** as part of the CodeAlpha DevOps Internship.  
 This repository is Task 3 of a 4-part DevOps pipeline series built around a fictional 
 grocery startup called QuickCart.
 
