@@ -192,6 +192,12 @@ curl http://localhost:8080/health
 
 # Product catalogue
 curl http://localhost:8080/products
+
+**Products Endpoint:**
+![Products Endpoint](docs/products-endpoint.png)
+
+**Health Endpoint:**
+![Health Endpoint](docs/health-endpoint.png)
 ```
 
 Or open directly in any browser:
