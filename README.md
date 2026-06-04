@@ -194,14 +194,11 @@ curl http://localhost:8080/health
 # Product catalogue
 curl http://localhost:8080/products
 
+# Test
 
-**Products Endpoint:b**
+![Health](./docs/health-endpoint.png)
 
-![Products Endpoint](docs/product-endpoint.png)
-
-**Health Endpoint:**
-
-![Health Endpoint](docs/health-endpoint.png)
+![Products](./docs/product-endpoint.png)
 
 
 ```
